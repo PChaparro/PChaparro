@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🔍 You can find me on:</h3>
-  <a href="www.linkedin.com/in/pedro-andres-chaparro">
+  <a href="https://www.linkedin.com/in/pedro-andres-chaparro">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
