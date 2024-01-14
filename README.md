@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🔍 You can find me on:</h3>
-  <a href="https://www.linkedin.com/in/pedro-andr%C3%A9s-chaparro-quintero-373bb8226/">
+  <a href="www.linkedin.com/in/pedro-andres-chaparro">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 </div>
 
-In my [University Account](https://github.com/PedroChaparro) you can find other projects related to multiple subjects, as Front-End 💅🏽, Back-End 💽, Web development 🖥️, Learning 🧠, etc.
+In my [University Account](https://github.com/PedroChaparro) you can find other projects related to multiple subjects, as Front-End 💅🏽, Back-End 💽, Web development 🖥️, etc.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PChaparro&theme=gruvbox"/>
