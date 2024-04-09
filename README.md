@@ -64,10 +64,8 @@ I'm a FullStack Developer from Colombia 🇨🇴 mainly focussed on FrontEnd Dev
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PChaparro&show_icons=true&count_private=true&hide_border=true" align="left" />
-
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PChaparro&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PChaparro&hide=Jupyter%20Notebook&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
